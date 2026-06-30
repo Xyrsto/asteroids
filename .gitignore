@@ -11,3 +11,7 @@ wheels/
 
 game_state.jsonl
 game_events.jsonl
+.python-version
+.gitignore
+pyproject.toml
+uv.lock
